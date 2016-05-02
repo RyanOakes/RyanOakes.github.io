@@ -1,0 +1,31 @@
+body {
+  background-color: #0000ff
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#special a:link {
+  color: yellow;
+  color:inherit;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.yellow_clicked a:visited {
+  color: lightblue;
+}
