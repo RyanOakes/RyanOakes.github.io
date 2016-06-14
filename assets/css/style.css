@@ -367,3 +367,18 @@ input {
 	margin-top: 30px;
 	letter-spacing: 1px;
 }
+
+#header_name {
+	color: white;
+	font-size: 130%;
+	display: inline-block;
+	margin-right: 150px;
+}
+
+#cell_container {
+	display: inline-block;
+}
+#cell {
+	display: inline-block;
+
+}
