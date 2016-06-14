@@ -376,9 +376,8 @@ input {
 }
 
 #cell_container {
-	display: inline-block;
+	display: i
 }
 #cell {
 	display: inline-block;
-
 }
