@@ -373,11 +373,25 @@ input {
 	font-size: 130%;
 	display: inline-block;
 	margin-right: 150px;
+	text-align: center;
 }
 
 #cell_container {
 	display: i
 }
+
 #cell {
 	display: inline-block;
+}
+
+#pic_left {
+
+}
+
+#pic_center {
+
+}
+
+#pic_right {
+	/*margin-left: 10px;*/
 }
